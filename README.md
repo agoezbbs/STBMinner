@@ -5,5 +5,5 @@ Kita connect STB lewat Putty sebagai user root,isi password dan masuklah di Armb
 Download CCMiner
 ketik di terminal Putty :
 
-mkdir ccminer && cd ccminer
+<code> mkdir ccminer && cd ccminer </code>
 
